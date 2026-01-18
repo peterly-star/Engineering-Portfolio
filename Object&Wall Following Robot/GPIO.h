@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+// Course Number: CECS 347
+// Assignment: Example project for Hardware PWM controlled Car
+// Description: 
+/////////////////////////////////////////////////////////////////////////////
+//GPIO.h
+
+// Left/Right Motor Drivers Initialization
+void Car_Dir_Init(void);
+
+// LED Initialization
+void LED_Init(void);
